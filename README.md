@@ -15,7 +15,6 @@
 — Issues I solved.
 1.I followed the tutorial and tried to install the Claude Code extension online, it shows: 
 Popup error `Cannot read properties of undefined (reading 'activeEditor').
-
 Solution: I found other tutorials on YouTube to save time.
 
 2.Cmd+Shift+X shortcut for Extensions panel had no response to open the extensions.
